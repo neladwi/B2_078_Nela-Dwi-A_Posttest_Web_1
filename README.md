@@ -4,5 +4,5 @@ Di dalam web yang saya buat terdapat 4 section, yaitu Home, Blog, Contact, dan A
 
 Home berisi tentang tampilan awal website.
 Blog berisi tentang blog pada website.
-Contact berisi mengenai cara pemesanan di dalam website yang berisi form.
-About Us berisi mengenai pengenalan website produk
+Contact berisi mengenai formulir pemesanan pada website.
+About Us berisi mengenai pengenalan website produk.
